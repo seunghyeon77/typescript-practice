@@ -1,1 +1,1 @@
-# lib-project
+# typeScript practice
